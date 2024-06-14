@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SereneSpace**
 
-- 🌱 I’m currently learning **Backend Frameworks (Django, Flask, FastAPI, Express.js)**
+- 🌱 I’m currently learning **Backend Frameworks**
 
 - 👯 I’m looking to collaborate on **Web dev, App dev or ML/DL projects**
 
