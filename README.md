@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanushree</h1>
 <h3 align="center">An enthusiastic student passionate about software development and machine learning</h3>
 
-- 🔭 I’m currently working on **SereneSpace**
+- 🔭 I’m currently working on **YourSpace**
 
 - 🌱 I’m currently learning **Docker**
 
