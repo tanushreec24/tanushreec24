@@ -1,4 +1,4 @@
-Developer | Aspiring SWE | Storyteller 
+## Developer | Aspiring SWE | Storyteller 
 
 👋 Hey there! I'm Tanushree :)
 
