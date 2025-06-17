@@ -1,4 +1,4 @@
-Developer | Aspiring SWE | Blending Code & Quality 🚀
+Developer | Aspiring SWE | Storyteller 
 
 👋 Hey there! I'm Tanushree :)
 
@@ -64,3 +64,5 @@ Developer | Aspiring SWE | Blending Code & Quality 🚀
 ### <img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9mfutbunecqfa8a80smg6lw7ppnc459ozuo2&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="GIF" width="70"/> Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushreec24&label=Profile%20views&color=0e75b6&style=flat" alt="tanushreec24" /> </p>
