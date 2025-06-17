@@ -47,17 +47,17 @@ Developer | Aspiring SWE | Blending Code & Quality 🚀
 
 ## <img src="https://media0.giphy.com/media/RgutegYIHk2Nhxj4m5/giphy.gif?cid=ecf05e47jzd3yw52pkqppt29ei31rqs67tv5omw8ntwi4vx2&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tanushreec24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanushreec24&theme=dark&hide_border=false)<br/>
 
 ## Languages Used:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushreec24&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tanushreec24&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
